@@ -49,6 +49,12 @@ Radiomic features are extracted from segmented tumor regions. These features cap
 
 Contributions and feedback are welcome! If you have suggestions or would like to contribute, please open an issue or create a pull request.
 
-## License
+# Brain Tumor Segmentation and Overall Survival Prediction
 
-This project is licensed under the [MIT License](LICENSE).
+## License Information
+
+The BraTS20 dataset used in this project is provided by the University of Pennsylvania for the BraTS (Brain Tumor Segmentation) challenge.
+
+### University of Pennsylvania License
+
+The BraTS20 dataset is made available under the license terms provided by the University of Pennsylvania. For detailed information about the license and usage restrictions, please refer to the official BraTS challenge website: [BraTS Challenge License](https://www.med.upenn.edu/cbica/brats2020/data.html).
